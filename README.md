@@ -4,7 +4,7 @@
 
 > **Three Claude Code skills that turn a cold list into booked calls and a weak offer into one people feel stupid saying no to.** Built around Alex Hormozi's offer and business frameworks plus eight cold-outreach systems (Hormozi, Kennedy, Cialdini, Cardone, Belfort, Brunson, Godin, Gary Vee) — routed automatically to whatever you're stuck on.
 
-This is the actual skill pack I keep loaded when I'm writing offers and outreach for [knoxhub.io](https://knoxhub.io) and pitching the [Knox Community](https://www.skool.com/knox-community-7232/). Not a demo. The real thing.
+This is the actual skill pack I keep loaded when I'm writing offers and outreach for [knoxhub.io](https://knoxhub.io) and pitching the [Knox Community](https://www.skool.com/knox/about). Not a demo. The real thing.
 
 > **Credit:** The frameworks here are distilled from public books, talks, and interviews (Alex Hormozi's *$100M Offers* and *$100M Leads*, Dan Kennedy, Robert Cialdini, Grant Cardone, Jordan Belfort, Russell Brunson, Seth Godin, Gary Vaynerchuk). Packaged into Claude skills by Roman Knox. Buy their books — they're worth it.
 
@@ -94,10 +94,10 @@ My offer converts on calls but nobody books the call from my outreach. Diagnose 
 
 I'm **Roman Knox** — I build AI products that make money, not demos.
 
-- 📸 Instagram: [@roman.knox](https://instagram.com/roman.knox) — 280K+ followers
-- 🏫 [Knox Community](https://www.skool.com/knox-community-7232/) — builders shipping real AI products
+- 📸 Instagram: [@theromanknox](https://instagram.com/theromanknox) — 280K+ followers
+- 🏫 [Knox Community](https://www.skool.com/knox/about) — builders shipping real AI products
 - 🌐 [knoxhub.io](https://knoxhub.io)
-- 📺 YouTube: [@AI-GPTWorkshop](https://youtube.com/@AI-GPTWorkshop)
+- 📺 YouTube: [@TheRomanKnox](https://youtube.com/@TheRomanKnox)
 - 🤖 My other Claude skills: [SEO Blog Writer](https://github.com/rediumvex/seo-blog-writer-claude) · [Social Media Caption Generator](https://github.com/rediumvex/social-media-caption-generator-claude) · [Viral Hooks](https://github.com/rediumvex/viral-hooks-skill) · [AI Video Generator](https://github.com/rediumvex/ai-video-generator-claude) · [AI Marketing Toolkit](https://github.com/rediumvex/ai-marketing-claude)
 
 ## License
