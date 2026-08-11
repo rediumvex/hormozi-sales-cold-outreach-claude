@@ -97,7 +97,7 @@ I'm **Roman Knox** — I build AI products that make money, not demos.
 - 📸 Instagram: [@theromanknox](https://instagram.com/theromanknox) — 280K+ followers
 - 🏫 [Knox Community](https://www.skool.com/knox/about) — builders shipping real AI products
 - 📺 YouTube: [@TheRomanKnox](https://youtube.com/@TheRomanKnox)
-- 🤖 My other Claude skills: [SEO Blog Writer](https://github.com/rediumvex/seo-blog-writer-claude) · [Social Media Caption Generator](https://github.com/rediumvex/social-media-caption-generator-claude) · [Viral Hooks](https://github.com/rediumvex/viral-hooks-skill) · [AI Video Generator](https://github.com/rediumvex/ai-video-generator-claude) · [AI Marketing Toolkit](https://github.com/rediumvex/ai-marketing-claude)
+- 🤖 My other Claude skills: [SEO Blog Writer](https://github.com/rediumvex/seo-blog-writer-claude) · [Social Media Caption Generator](https://github.com/rediumvex/social-media-caption-generator-claude) · [Viral Hooks](https://github.com/rediumvex/viral-hooks-skill) · [AI Video Generator](https://github.com/rediumvex/ai-video-generator-claude) · [AI Marketing Toolkit](https://github.com/rediumvex/ai-marketing-claude) · [Meta Ads Doctor](https://github.com/rediumvex/meta-facebook-ads-optimizer-claude)
 
 ## License
 
